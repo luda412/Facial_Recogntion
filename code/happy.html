@@ -1,0 +1,46 @@
+<html>
+<head>
+    <META http-equiv="content-type" content="text/html; charset=utf-8">
+        <title>술 추천 프로그램</title>
+        <style>
+            h1 {
+              /*color: blue;*/
+              font-family: verdana;
+              font-size: 300%;
+            
+            }
+            p  {
+              color: red;
+              font-family: courier;
+              font-size: 160%;
+            }
+            h4 {
+                font-family: verdana;
+            }
+            </style>
+    
+    <script language="JavaScript">
+        function random(n) {
+                return Math.floor(Math.random() * 4) + 1;
+                /* (Math.floor(Math.random()*100000)%6); */
+        }
+        </script>
+</head>
+
+<body>
+    <h1 style="text-align:center;">감정에 맞는 술 추천</h1>
+    <p style="text-align:center;">당신의 감정은 '행복'입니다.</p>  
+    <div style="text-align : center;">
+        <script language="JavaScript">
+            document.write( '<img src="drink/happiness/bg'+random(8)+'.png" width="720" height="500" border="0">');
+       </script>
+    </div>
+    <h4 style="text-align:center;">다른 술을 추천받고 싶으시다면 새로고침을 눌러주세요!</h4>  
+
+</body>
+
+</html>
+
+<script>
+    document.write(Math.floor( ( Math.random() * 10 ) ) );
+</script>
