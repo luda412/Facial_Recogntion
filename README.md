@@ -47,19 +47,11 @@
 
 ## 🏹 개념 모델
 
-<img
-  src="https://ifh.cc/g/BdqTjq.png"
-  width="550"
-  height="350"
-/>
+<img width="1249" height="533" alt="Image" src="https://github.com/user-attachments/assets/2cdc4518-ecbd-4adb-ae72-d52072e5464a" />
 
 ## 🖼️ Wire Frame
 
-<img
-  src="https://ifh.cc/g/BRj9qw.png"
-  width="600"
-  height="350"
-/>
+<img width="1247" height="703" alt="Image" src="https://github.com/user-attachments/assets/64e81567-199d-401b-a022-d3c323b297a2" />
 
 ## ⭐️ 주요 기능
 
