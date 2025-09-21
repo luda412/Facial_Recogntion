@@ -8,16 +8,8 @@
 
 ## 🛠️ 기술 스택
 
-<img
-  src="https://ifh.cc/g/V6JX9w.png"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://ifh.cc/g/czD6xf.png"
-  width="50"
-  height="50"
-/>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 ## 📝 프로젝트 소개
 
